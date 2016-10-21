@@ -1,8 +1,7 @@
 
 # 2015-third-round
 姓名：  李海洋
-联系方式：  15771641206
- 
+联系方式：  15771641206              qq：1797134972       email：1797134972@qq.com
  
 1. FORK： 中文解释是叉，github上的图标是一个分叉 ， 它表示为一个brunch，我们可以在分支上对代码进行分析，修改，同时，fork的删除并不会对源项目产生任何影响。分支的源代码作者可以对fork任意修改，来控制他们的源代码的安全。
 /*pull request： Pull requests let you tell others about changes you've pushed to a repository on GitHub. Once a pull request is opened, you
