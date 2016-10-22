@@ -8,14 +8,14 @@
 
 > ### 你通过自己的了解和对帮助的阅读，对 fork 和 pull request 的理解， 并且解释 github 的用途。
 
-## fork：将项目拷贝一份到自己的仓库中。
-#### fork VS branch
+### fork：将项目拷贝一份到自己的仓库中。
+fork VS branch
 相同点：都可以向`master`提交`pull request`请求，
 不同点是：
  1. 对于一个Public的项目，每个人都可以`fork`，但只有项目的主人可以创建`branch`
  2. 当`master`发生改动时，这些改动不会自动同步到`fork`，只会同步到`branch`
 
-## pull request：将branch/fork的改动提交到上级分支
+### pull request：将branch/fork的改动提交到上级分支
 我对pull request的理解
  1. 层次性：`master`的改动能无条件同步到`branch`，而`branch`的改动要通过请求和确认才能同步到`master`
  2. 协商性：每一个`pull request`在`merge`之前都有一个互相协商的过程，保证整个工程的正确性和稳定性
