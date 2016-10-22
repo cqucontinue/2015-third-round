@@ -1,8 +1,10 @@
 # 2016-third-round
 
-<!--请点击右上角的 View 查看-->
-<!--请点击右上角的 View 查看-->
-<!--请点击右上角的 View 查看-->
+- 彭启标
+- Tel:18216710629
+- Email:andreamapp@qq.com
+
+<!--建议点击右上角的 View 查看-->
 
 > ### 你通过自己的了解和对帮助的阅读，对 fork 和 pull request 的理解， 并且解释 github 的用途。
 
